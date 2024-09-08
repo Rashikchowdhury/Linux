@@ -38,3 +38,19 @@ Ex- Ubuntu, Linux mint, CentOS. Redhat
 + Miltitasking: Can run multiple users simultineously.
 + Security: Strong security features and regular updates.
 + Portability: Can run on various hardware plaforms.
+
+## Market demand:
+
+<b>Job roles:</b> Linux skills are in demand for roles such as system administrators, DevOps engineers, cloud architects, software developers, network engineers, and cybersecurity professionals.
+
+<b>Industry Adoption:</b> Many companies, from tech giants like google, facebook, and financial, institutions and healthcare providers, relly on linux for there IT infrastructure.
+
+
+## Recommendation for beginners:
+
+<b>Ubuntu:</b> It's widely used, has extensive documentation, and a large community for support.
+
+<b>CentOS:</b> 
+
++ Community version of Red Hat Enterprise Linux (RHEL)
++ Commonly used in enterprise environments.
