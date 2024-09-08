@@ -19,7 +19,7 @@ the 1970s at AT&T's Bell Labs, which serves as the foundation for many modern op
 
 ## Linux VS Unix
 + fgh
-+ +  dfg
+    + +  dfg
 + + + Unix is licensed and Linux in Open Sourced.
 
 Linux is inspired by unix and is designed to be unix-like. It follows many of the same principles and standards, making it competible with Unix software and commands.
