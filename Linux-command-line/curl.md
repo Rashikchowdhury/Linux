@@ -73,3 +73,29 @@ curl -s https://www.example.com
 <pre>
 curl -v https://www.example.com
 </pre>
+
+
+## Difference Between curl and wget:
+
+While both curl and wget are used for downloading files and interacting with servers, they have some differences:
+
++ Protocols Supported:
+
+    + wget primarily supports HTTP, HTTPS, and FTP.
+    + curl supports a broader range of protocols, including HTTP, HTTPS, FTP, FTPS, SCP, SFTP, LDAP, and more.
+
++ Use Cases:
+
+    + wget is more suited for downloading files and recursively downloading directories.
+    + curl is better for interacting with APIs, sending data, and more complex request scenarios.
+
++ Output Handling:
+
+    + get automatically downloads files to the current directory.
+    + curl outputs data to standard output by default, but can also save to files using options.
++ Recursive Downloading:
+
+    + wget supports recursive downloading out of the box.
+    + curl does not support recursive downloading; additional scripting is required.
+
+    
